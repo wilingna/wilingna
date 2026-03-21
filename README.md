@@ -1,82 +1,71 @@
-# Hi, I'm Wiling 👋
+# 🚀 AI Decision Systems · Workflows · Products
 
+Hi, I'm Wiling 👋  
 AI Native HR | Decision System Builder  
-Turning AI workflows into real tools & products
+
+I turn AI workflows into real tools & decision systems.
 
 ---
 
-## 🚀 What I Do
+## 🔥 What Makes Me Different
 
-I design and build AI-driven systems that help individuals and teams make better decisions and create real outputs.
+Most people use AI to get answers.  
+I build systems that simulate outcomes.
 
-- 🧠 AI Decision Systems  
-- 🛠 AI Workflow Design  
-- 📦 AI Tools & Productization  
-- 🤖 Agent-based Systems  
+→ Not asking AI  
+→ Designing AI decision systems  
 
 ---
 
-## 🔥 Core Projects
+## 🧠 Core Systems
 
 ### 🧠 AI Decision System
 Simulate multiple future paths before making a decision.
 
-→ Helps you answer:
-- Should I switch career?
-- Which project is worth investing in?
-- What happens under different choices?
+→ Career / Business / Strategy decisions  
+→ Multi-path outcome analysis  
 
 🔗 https://github.com/wilingna/ai-decision-5steps
 
 ---
 
 ### 📊 AI PPT Web Tool
-Turn ideas into structured presentations in one workflow.
+Turn messy ideas into structured presentations.
 
-→ From messy input → structured logic → final slides
+→ Idea → Structure → Slides (end-to-end)
 
 🔗 https://github.com/wilingna/ai-ppt-web
 
 ---
 
-### 🧰 AI PPT Toolkit (Open Source)
-A prompt-based workflow for generating high-quality presentations.
+### 🧰 AI PPT Toolkit
+Prompt-based workflow for high-quality PPT generation.
 
-→ NotebookLM · Gemini · Gamma
+→ NotebookLM · Gemini · Gamma  
 
 🔗 https://github.com/wilingna/ai-ppt-toolkit
 
 ---
 
-## 🧩 My Approach
+## 📦 Get Full Resources
 
-Most people use AI to get answers.  
-I build systems that simulate outcomes.
-
-→ From: Asking AI  
-→ To: Designing decision systems  
+👉 AI Decision System + Workflow Pack  
+https://my.feishu.cn/doc/UbcVdY0g8oHIj5
 
 ---
 
-## 📦 Get Resources
+## 🌏 Follow My Work
 
-🎁 Full AI Workflow & Decision System Pack:  
-👉 https://my.feishu.cn/doc/UbcVdY0g8oHIj5
-
----
-
-## 🌏 Connect With Me
-
-📍 Xiaohongshu (小红书):  
-👉 https://xhslink.com/m/AsmvcXWHsng
+👉 Xiaohongshu  
+https://xhslink.com/m/AsmvcXWHsng
 
 ---
 
 ## ⚡ Philosophy
 
-> AI is not a tool.  
-> It’s a system you design.
+AI is not a tool.  
+It’s a system you design.
 
 ---
 
-⭐ If you find this useful, feel free to star the repo!
+⭐ Star this repo if it helps you build better decisions.
