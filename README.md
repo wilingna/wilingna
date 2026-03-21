@@ -1,45 +1,52 @@
 # 🚀 AI Decision Systems · Workflows · Products
 
+Stop asking AI for answers.  
+Start simulating your future.
+
+---
+
 Hi, I'm Wiling 👋  
 AI Native HR | Decision System Builder  
 
-I turn AI workflows into real tools & decision systems.
+I design AI systems that help you:
+- Decide faster  
+- See multiple future outcomes  
+- Turn ideas into real outputs  
 
 ---
 
 ## 🔥 What Makes Me Different
 
-Most people use AI to get answers.  
-I build systems that simulate outcomes.
+Most people use AI like this:
+→ Ask a question → Get an answer  
 
-→ Not asking AI  
-→ Designing AI decision systems  
+I build systems like this:
+→ Define a problem → Simulate paths → Compare outcomes → Make decisions  
 
 ---
 
 ## 🧠 Core Systems
 
 ### 🧠 AI Decision System
-Simulate multiple future paths before making a decision.
+Should you switch jobs? Start a business? Invest in a project?
 
-→ Career / Business / Strategy decisions  
-→ Multi-path outcome analysis  
+Simulate multiple future paths before making a decision.
 
 🔗 https://github.com/wilingna/ai-decision-5steps
 
 ---
 
 ### 📊 AI PPT Web Tool
-Turn messy ideas into structured presentations.
+From messy thoughts → structured logic → polished slides
 
-→ Idea → Structure → Slides (end-to-end)
+One workflow. No tool switching.
 
 🔗 https://github.com/wilingna/ai-ppt-web
 
 ---
 
 ### 🧰 AI PPT Toolkit
-Prompt-based workflow for high-quality PPT generation.
+A structured prompt system for high-quality presentations
 
 → NotebookLM · Gemini · Gamma  
 
@@ -68,4 +75,4 @@ It’s a system you design.
 
 ---
 
-⭐ Star this repo if it helps you build better decisions.
+⭐ Star this repo if you want to build better decisions.
