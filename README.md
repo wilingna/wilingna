@@ -1,7 +1,7 @@
 # 🚀 AI Decision Systems · Workflows · Products
 
 Stop asking AI for answers.  
-Start simulating your future.
+Start simulating your future with AI.
 
 ---
 
@@ -17,10 +17,10 @@ I design AI systems that help you:
 
 ## 🔥 What Makes Me Different
 
-Most people use AI like this:
+Most people use AI like this:  
 → Ask a question → Get an answer  
 
-I build systems like this:
+I build systems like this:  
 → Define a problem → Simulate paths → Compare outcomes → Make decisions  
 
 ---
@@ -37,7 +37,7 @@ Simulate multiple future paths before making a decision.
 ---
 
 ### 📊 AI PPT Web Tool
-From messy thoughts → structured logic → polished slides
+From messy thoughts → structured logic → polished slides  
 
 One workflow. No tool switching.
 
@@ -46,7 +46,7 @@ One workflow. No tool switching.
 ---
 
 ### 🧰 AI PPT Toolkit
-A structured prompt system for high-quality presentations
+A structured prompt system for high-quality presentations  
 
 → NotebookLM · Gemini · Gamma  
 
@@ -75,4 +75,4 @@ It’s a system you design.
 
 ---
 
-⭐ Star this repo if you want to build better decisions.
+⭐ Star this repo if you want to build better decisions with AI.
