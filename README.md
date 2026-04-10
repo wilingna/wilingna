@@ -1,78 +1,98 @@
-# 🚀 AI Decision Systems · Workflows · Products
+🚀 AI Systems · Agents · Decision Engines
 
-Stop asking AI for answers.  
-Start simulating your future with AI.
+Stop asking AI for answers.
+Start building systems that think for you.
 
----
+👋 Hi, I’m Wiling
 
-Hi, I'm Wiling 👋  
-AI Native HR | Decision System Builder  
+AI Native HR → AI Systems Architect
 
-I design AI systems that help you:
-- Decide faster  
-- See multiple future outcomes  
-- Turn ideas into real outputs  
+I don’t use AI like most people.
 
----
+I design AI systems that work, decide, and create — for me.
 
-## 🔥 What Makes Me Different
+⚡ What I Actually Build
 
-Most people use AI like this:  
-→ Ask a question → Get an answer  
+Not prompts.
+Not single tools.
 
-I build systems like this:  
-→ Define a problem → Simulate paths → Compare outcomes → Make decisions  
+👉 Systems.
 
----
+🧠 Decision Systems → simulate multiple futures before acting
+🏭 Content Systems → 7 AI agents running end-to-end production
+🧰 AI Products → turning workflows into real tools
+🔥 What Makes Me Different
 
-## 🧠 Core Systems
+Most people use AI like this:
 
-### 🧠 AI Decision System
-Should you switch jobs? Start a business? Invest in a project?
+Ask → Answer
 
-Simulate multiple future paths before making a decision.
+I build systems like this:
+
+Define → Simulate → Compare → Decide → Execute
+
+🧠 Core Systems
+🧠 AI Decision System
+
+Don’t ask “what should I do”
+Simulate “what will happen if I do”
+
+Multi-path simulation
+Structured comparison
+Decision scoring system
 
 🔗 https://github.com/wilingna/ai-decision-5steps
 
----
+🏭 AI Content System (FLUX) ⭐ NEW
 
-### 📊 AI PPT Web Tool
-From messy thoughts → structured logic → polished slides  
+Not me creating content.
+👉 7 AI agents running my content factory
 
-One workflow. No tool switching.
+From idea → structure → script → review → publish
 
-🔗 https://github.com/wilingna/ai-ppt-web
+Trend Agent (Perplexity)
+Strategy Agent (Claude)
+Script Agent (GPT)
+QA Agent (Dual-model check)
+Distribution Agent
 
----
+👉 A real multi-agent system, not role-playing in one model.
 
-### 🧰 AI PPT Toolkit
-A structured prompt system for high-quality presentations  
+📊 AI PPT System
 
-→ NotebookLM · Gemini · Gamma  
+From messy thoughts → structured logic → polished slides
+
+NotebookLM / Claude → structure
+Gemini → expression
+Gamma → presentation
 
 🔗 https://github.com/wilingna/ai-ppt-toolkit
 
----
+🌐 AI PPT Web Tool
 
-## 📦 Get Full Resources
+One workflow. No switching tools.
 
-👉 AI Decision System + Workflow Pack  
-https://my.feishu.cn/doc/UbcVdY0g8oHIj5
+🔗 https://github.com/wilingna/ai-ppt-web
 
----
+📦 Resources
 
-## 🌏 Follow My Work
+👉 AI Decision System + Workflow Pack
+https://my.feishu.cn/doc/UbcVdY0g8oHlj5
 
-👉 Xiaohongshu  
-https://xhslink.com/m/AsmvcXWHsng
+🌍 Follow My Work
 
----
+👉 Xiaohongshu
+https://xhslinlk.com/m/AsmvcXWHsng
 
-## ⚡ Philosophy
+⚡ Philosophy
 
-AI is not a tool.  
+AI is not a tool.
 It’s a system you design.
 
----
+⭐ If this helps you
 
-⭐ Star this repo if you want to build better decisions with AI.
+Star the repo.
+
+Or better —
+
+👉 Build your own system.
