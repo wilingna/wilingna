@@ -1,95 +1,122 @@
-🚀 AI Systems · Agents · Decision Engines
+# 🚀 AI Systems · Agents · Decision Engines
 
-Stop asking AI for answers.
-Start building systems that think for you.
+> Stop asking AI for answers.  
+> Start building systems that think for you.
 
-👋 Hi, I’m Wiling
+---
 
-AI Native HR → AI Systems Architect
+## 👋 Hi, I’m Wiling
 
-I don’t use AI like most people.
+**AI Native HR → AI Systems Architect**
 
-I design AI systems that work, decide, and create — for me.
+AI is not a tool for me.  
+It’s a system I design.
 
-⚡ What I Actually Build
+I build AI systems that **work, decide, and create — for me.**
 
-Not prompts.
+---
+
+## ⚡ What I Actually Build
+
+Not prompts.  
 Not single tools.
 
-👉 Systems.
+👉 **Systems.**
 
-🧠 Decision Systems → simulate multiple futures before acting
-🏭 Content Systems → 7 AI agents running end-to-end production
-🧰 AI Products → turning workflows into real tools
-🔥 What Makes Me Different
+- 🏭 Content Systems → AI agents running end-to-end production  
+- 🧠 Decision Systems → simulate multiple futures before acting  
+- 🧰 AI Products → turning workflows into real tools  
+
+---
+
+## 🔥 What Makes Me Different
 
 Most people use AI like this:
 
-Ask → Answer
+> Ask → Answer
 
 I build systems like this:
 
-Define → Simulate → Compare → Decide → Execute
+> Define → Simulate → Compare → Decide → Execute
 
-🧠 Core Systems
-🧠 AI Decision System
+---
 
-Don’t ask “what should I do”
-Simulate “what will happen if I do”
+## 🧠 Core Systems
 
-Multi-path simulation
-Structured comparison
-Decision scoring system
+---
 
-🔗 https://github.com/wilingna/ai-decision-5steps
+### 🏭 AI Content System (FLUX) ⭐ NEW
 
-🏭 AI Content System (FLUX) ⭐ NEW
-
-Not me creating content.
-👉 7 AI agents running my content factory
+> Not me creating content.  
+> 👉 **7 AI agents running my content factory**
 
 From idea → structure → script → review → publish
 
-Trend Agent (Perplexity)
-Strategy Agent (Claude)
-Script Agent (GPT)
-QA Agent (Dual-model check)
-Distribution Agent
+- Trend Agent (Perplexity)  
+- Strategy Agent (Claude)  
+- Script Agent (GPT)  
+- QA Agent (Dual-model check)  
+- Distribution Agent  
 
-👉 A real multi-agent system, not role-playing in one model.
+👉 A **real multi-agent system**, not role-playing in one model.
 
-📊 AI PPT System
+---
 
-From messy thoughts → structured logic → polished slides
+### 🧠 AI Decision System
 
-NotebookLM / Claude → structure
-Gemini → expression
-Gamma → presentation
+> Don’t ask “what should I do”  
+> Simulate “what will happen if I do”
 
-🔗 https://github.com/wilingna/ai-ppt-toolkit
+- Multi-path simulation  
+- Structured comparison  
+- Decision scoring system  
 
-🌐 AI PPT Web Tool
+🔗 https://github.com/wilingna/ai-decision-5steps
 
-One workflow. No switching tools.
+---
 
-🔗 https://github.com/wilingna/ai-ppt-web
+### 📊 AI PPT System
 
-📦 Resources
+> From messy thoughts → structured logic → polished slides
 
-👉 AI Decision System + Workflow Pack
-https://my.feishu.cn/doc/UbcVdY0g8oHlj5
+- NotebookLM / Claude → structure  
+- Gemini → expression  
+- Gamma → presentation  
 
-🌍 Follow My Work
+🔗 https://github.com/wilingna/ai-ppt-toolkit  
 
-👉 Xiaohongshu
-https://xhslinlk.com/m/AsmvcXWHsng
+---
 
-⚡ Philosophy
+### 🌐 AI PPT Web Tool
 
-AI is not a tool.
-It’s a system you design.
+> One workflow. No tool switching.
 
-⭐ If this helps you
+🔗 https://github.com/wilingna/ai-ppt-web  
+
+---
+
+## 📦 Resources
+
+👉 AI Decision System + Workflow Pack  
+https://my.feishu.cn/doc/UbcVdY0g8oHlj5  
+
+---
+
+## 🌍 Follow My Work
+
+👉 Xiaohongshu  
+https://xhslinlk.com/m/AsmvcXWHsng  
+
+---
+
+## ⚡ Philosophy
+
+> AI is not a tool.  
+> It’s a system you design.
+
+---
+
+## ⭐ If this helps you
 
 Star the repo.
 
