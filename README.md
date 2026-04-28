@@ -107,7 +107,7 @@ From idea → structure → script → review → publish
 * Interactive HTML slides
 * Fully editable output
 
-🔗 https://github.com/wilingna/pptflux
+🔗 https://wilingna.github.io/PPTFlux/
 
 ---
 
