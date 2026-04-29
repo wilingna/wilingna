@@ -124,12 +124,12 @@ A few principles that show up in everything I build:
 ## 📖 My Journey · 我的路径
 
 ```
-HR (10+ years) ─→ AI-Native HR ─→ AI Systems Architect ─→ ?
-   大厂 HR         AI 化 HR        AI 系统架构师
+HR (22 years) ─→ AI-Native HR ─→ AI Systems Architect ─→ ?
+   大厂 HR         AI 化 HR         AI 系统架构师
 ```
 
-I spent a decade building people systems inside big-tech companies. Then I started building **systems for myself** — to make decisions, to create content, to run my own work. The repos here are the artifacts of that transition.
-我做了十年大厂 HR，搭建组织里的人才系统。然后开始**为自己搭系统**——做决策、做内容、运营自己的工作。这些仓库是这个转变的产物。
+I spent **22 years** building people systems inside big-tech companies. Then I started building **systems for myself** — to make decisions, to create content, to run my own work. The repos here are the artifacts of that transition.
+我做了 **22 年大厂 HR**，搭建组织里的人才系统。然后开始**为自己搭系统**——做决策、做内容、运营自己的工作。这些仓库是这个转变的产物。
 
 If you're somewhere on a similar arc — from "AI user" to "AI system designer" — I hope something here helps.
 如果你也在类似的轨迹上——从"AI 用户"走向"AI 系统设计者"——希望这里的东西对你有用。
